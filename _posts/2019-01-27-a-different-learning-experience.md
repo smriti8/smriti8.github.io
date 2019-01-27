@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Smriti Bahuguna"
+title: "A different learning experience"
 date: 2019-01-27
 ---
 
