@@ -1,2 +1,5 @@
 name: Smriti Bahuguna
 markdown: kramdown
+
+permalink: /blog/:year/:month/:day/:title
+
